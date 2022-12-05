@@ -5,7 +5,6 @@ const ToggleTheme = () => {
     const systemPreferences = window.matchMedia('(prefers-color-scheme: dark)').matches
     const pagesClasses = document.documentElement.classList
 
-
     useEffect(() => {
         systemPreferences && pagesClasses.add('dark')
     })
