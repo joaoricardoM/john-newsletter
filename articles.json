@@ -2,7 +2,7 @@
     {
       "title": "Novo Podcast: Bolha Dev",
       "text": [
-        "A nossa bolha ficou muito mais unida e informada essa semana, com o lançamento do podcast diário Bolha Dev!  Em todas as tardes de segunda a sexta-feira, Marcus Mendes apresenta as melhores notícias da Newsletter do Filipe Deschamps, além de trazer conteúdos e dicas interessantes do Aluraverso.",
+        "A nossa bolha ficou muito mais unida e informada essa semana, com o lançamento do podcast diário Bolha Dev!  Em todas as tardes de segunda a sexta-feira, Marcus Mendes apresenta as melhores notícias da Newsletter do Filipe Deschamps, além de trazer conteúdos e dicas interessantes do blueverso.",
         "Confira o último episódio do Bolha Dev, em que o Marcus falou sobre a Anatel intensificando combate contra pirataria, reconhecimento facial por sonar, treinamento de drones no metaverso e muito mais!"
       ],
       "tags": ["podcast", "bolhadev"]
@@ -18,9 +18,9 @@
     {
       "title": "Começou o Challenge Back-End",
       "text": [
-        "Começa hoje o Challenge Back-End, voltado para alunos e alunas da Alura que querem ter um projeto completo para adicionar ao portfólio e aumentar suas chances no mercado tech.",
+        "Começa hoje o Challenge Back-End, voltado para alunos e alunas da blue que querem ter um projeto completo para adicionar ao portfólio e aumentar suas chances no mercado tech.",
         "Serão quatro semanas para desenvolver uma API Rest de uma aplicação de controle financeiro, realizar validações de regras de negócio, implementar um relatório de informações e também um controle de acesso.",
-        "Ainda dá tempo de se inscrever e participar! Vem aprender colocando a mão na massa, sempre com o suporte do time Alura e da nossa comunidade no Discord."
+        "Ainda dá tempo de se inscrever e participar! Vem aprender colocando a mão na massa, sempre com o suporte do time blue e da nossa comunidade no Discord."
       ],
       "tags": ["back-end", "node", "java"]
     },
