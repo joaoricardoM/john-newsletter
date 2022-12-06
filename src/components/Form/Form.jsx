@@ -10,14 +10,19 @@ const Form = ({ onSubmit }) => {
   return (
     <form
       onSubmit={safeSubmit}
-      className="h-full flex flex-col items-center justify-center gap-10 -mt-16"
+      className="h-full flex flex-col items-center justify-center gap-10 -mt-20 mx-5"
     >
-      <input type="text" placeholder="Insira seu nome..." />
-      <input type="email" placeholder="Insira seu e-mail..." />
-      <button
-        type="submit"
-        className=" py-1 px-5 bg-blue-100 dark:bg-dark-200 rounded-full text-gray-100 uppercase"
-      >
+      <input
+        type="text"
+        className="button-input"
+        placeholder="Insira seu nome..."
+      />
+      <input
+        type="email"
+        className="button-input"
+        placeholder="Insira seu e-mail..."
+      />
+      <button type="submit" className="form-button">
         Seguir
       </button>
     </form>
