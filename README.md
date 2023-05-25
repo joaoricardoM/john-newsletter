@@ -1,1 +1,1 @@
-# login-newsletter
+# john-newsletter
